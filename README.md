@@ -1,5 +1,3 @@
-# rap-horn package
+# better-rap-horn package
 
-Adds a rap air horn to Atom.
-
-Activate by pressing `f1`. Repeat.
+Press 'f1' to hammer slam that rap horn
