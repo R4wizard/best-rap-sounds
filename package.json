@@ -1,7 +1,7 @@
 {
   "name": "better-rap-horn",
   "main": "./lib/better-rap-horn",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "When you want a rap horn that can be slammed repeatedly without overlap",
   "keywords": [
     "rap-horn"
