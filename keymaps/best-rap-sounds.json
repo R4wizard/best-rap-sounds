@@ -1,8 +1,8 @@
 {
   "atom-workspace": {
     "shift-ctrl-alt-f1": "best-rap-sounds:play-horn",
-    "shift-ctrl-alt-f2": "best-rap-sounds:play-pullup",
-    "shift-ctrl-alt-f3": "best-rap-sounds:play-hadouken",
-    "shift-ctrl-alt-f4": "best-rap-sounds:play-perfect"
+    "shift-ctrl-alt-f2": "best-rap-sounds:play-hadouken",
+    "shift-ctrl-alt-f3": "best-rap-sounds:play-perfect",
+    "shift-ctrl-alt-f4": "best-rap-sounds:play-pullup"
   }
 }
