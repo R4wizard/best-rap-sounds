@@ -1,15 +1,20 @@
 {
-  "name": "better-rap-horn",
-  "main": "./lib/better-rap-horn",
+  "name": "best-rap-sounds",
+  "main": "./lib/best-rap-sounds",
   "version": "1.1.0",
-  "description": "When you want a rap horn that can be slammed repeatedly without overlap",
+  "description": "When you want a rap sound that can be slammed repeatedly without overlap",
   "keywords": [
-    "rap-horn"
+    "rap-horn", "rap-sounds", "rap-sound"
   ],
   "activationCommands": {
-    "atom-workspace": "better-rap-horn:play"
+    "atom-workspace": [
+      "best-rap-sounds:play-horn",
+      "best-rap-sounds:play-pullup",
+      "best-rap-sounds:play-hadouken",
+      "best-rap-sounds:play-perfect"
+    ]
   },
-  "repository": "https://github.com/itsmoops/better-rap-horn",
+  "repository": "https://github.com/R4wizard/best-rap-sounds",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
