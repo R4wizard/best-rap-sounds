@@ -1,7 +1,7 @@
 {
   "name": "best-rap-sounds",
   "main": "./lib/best-rap-sounds",
-  "version": "1.3.4",
+  "version": "1.3.5",
   "description": "When you want a rap sound that can be slammed repeatedly without overlap",
   "keywords": [
     "rap-horn",
