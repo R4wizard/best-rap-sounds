@@ -1,0 +1,30 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "best-rap-sounds",
+          "submenu": [
+            {
+              "label": "Rap Sounds - Horn",
+              "command": "best-rap-sounds:play-horn"
+            },
+            {
+              "label": "Rap Sounds - Pull Up",
+              "command": "best-rap-sounds:play-pullup"
+            },
+            {
+              "label": "Rap Sounds - Hadouken",
+              "command": "best-rap-sounds:play-hadouken"
+            },
+            {
+              "label": "Rap Sounds - Perfect",
+              "command": "best-rap-sounds:play-perfect"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
